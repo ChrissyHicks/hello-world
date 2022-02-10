@@ -1,7 +1,7 @@
 # About Me
 
 Hi everyone! I'm Chrissy, I use any and all pronouns, and I am very excited to learn more about DH stuff.  Here is a picture of my adorable pet turtle. 
-![My turtle Tukae is so cute!](/hello-world/Tukae.JPG)
+![My turtle Tukae is so cute](/ChrissyHicks/hello-world/Tukae.JPEG "Photo of Tukae")
 
 ## Interests
 
